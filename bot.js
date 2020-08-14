@@ -199,7 +199,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 5000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`fghds`)
           .then(m => {
             count++;
           })
@@ -213,7 +213,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 5000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`dhb`)
           .then(m => {
             count++;
           })
@@ -227,7 +227,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 5000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`hjjnn`)
           .then(m => {
             count++;
           })
@@ -241,7 +241,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 5000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`ghjnn`)
           .then(m => {
             count++;
           })
@@ -255,7 +255,7 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 5000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`lokp`)
           .then(m => {
             count++;
           })
